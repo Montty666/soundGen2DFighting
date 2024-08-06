@@ -1,4 +1,4 @@
-module github.com/Montty666/soundGen2DFighting
+module soundGen2DFighting
 
 go 1.22.5
 

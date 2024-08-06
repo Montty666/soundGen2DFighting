@@ -1,4 +1,4 @@
-package music
+package soundGen2DFighting
 
 import (
 	"fmt"
